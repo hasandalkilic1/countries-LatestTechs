@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#9B9B9B</color>
+    <color name="colorPrimaryVariant">#808080</color>
+
+    <color name="colorSecondary">#535353</color>
+    <color name="colorSecondaryVariant">#2B2B2B</color>
+
+    <color name="separationColor">#C7C7C7</color>
+
+    <!-- Detail Screen Colors-->
+    <color name="detail_screen_country_description_text_color">#C7C7C7</color>
+    <color name="detail_screen_country_name_text_color">#C7C7C7</color>
+    <color name="detail_screen_capital_name_text_color">#9E9E9E</color>
+    <color name="detail_screen_cl_background_color">#272727</color>
+    <color name="detail_screen_shape_detail_screen_sw_rounded_color">#FF000000</color>
+
+    <!-- Card Design Colors-->
+    <color name="card_design_country_name_text_color">#000000</color>
+    <color name="card_design_capital_name_text_color">#979797</color>
+</resources>
